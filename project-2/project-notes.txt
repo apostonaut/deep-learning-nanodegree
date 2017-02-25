@@ -1,0 +1,8 @@
+And, I’d like to note that not all the content we’ve made is necessary for the second project. For the image recognition project, you’ll need:
+
+- Intro to TensorFlow
+- Deep Neural Networks
+- Convolutional Networks
+- Cloud Computing
+
+If you are behind, you can skip the rest of the lessons and go straight into those so you can work on the project.
